@@ -4,3 +4,6 @@ Paper Link : [https://arxiv.org/abs/2311.16514](https://arxiv.org/abs/2311.16514
 
 #### Main Architecture
 ![Architecture](./figs/main_figure.png) 
+
+#### Spatio-temporal Pseudo Anomalies
+![Architecture](./figs/pseudo_anomalies.png) 
