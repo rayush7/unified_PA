@@ -6,4 +6,4 @@ Paper Link : [https://arxiv.org/abs/2311.16514](https://arxiv.org/abs/2311.16514
 ![Architecture](./figs/main_figure.png) 
 
 #### Spatio-temporal Pseudo Anomalies
-<img src="drawing.jpg" alt="drawing" height="200" width="200"/>
+<img src="pseudo_anomalies.png" height="200" width="200"/>
