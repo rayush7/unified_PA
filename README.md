@@ -9,6 +9,6 @@ Paper Link : [https://arxiv.org/abs/2311.16514](https://arxiv.org/abs/2311.16514
 <img src="./figs/pseudo_anomalies.png" alt="Pseudo Anomalies" width="480" height="420">
 
 #### Anomaly Score Over Time
-![Anomaly Score](./figs/qual_ano_score_time.png) 
+<img src="./figs/qual_ano_score_time.png" alt="Anomaly Score" width="800" height="600">
 
 #### Please cite our paper 
